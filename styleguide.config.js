@@ -1,6 +1,7 @@
 module.exports = {
 	title: 'React Style Guide Example',
 	defaultExample: true,
+	assetsDir: ['assets1', 'assets2'],
 	webpackConfig: {
 		module: {
 			loaders: [
